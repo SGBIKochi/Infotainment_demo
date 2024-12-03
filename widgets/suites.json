@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"f478d656b16f6e2ee411efd5af2d16b4","name":"Test Suite1:FM Station tune","statistic":{"failed":1,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":5}},{"uid":"87e61b338c7a2232405d2b88e208e1dd","name":"Test Suite2:FM Station test","statistic":{"failed":0,"broken":0,"skipped":2,"passed":3,"unknown":0,"total":5}}]}
